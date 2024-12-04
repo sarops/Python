@@ -1,2 +1,2 @@
 # Python
-Python codes in various situations
+Python codes for various situations and tasks.
