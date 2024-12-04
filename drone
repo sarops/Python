@@ -1,3 +1,5 @@
+#This code was created in order to depict the actions/tasks of a drone deployed from a vessel in order to monitor maritime traffic and send real-time data.
+
 import turtle, time, random
 
 # turtle screen
