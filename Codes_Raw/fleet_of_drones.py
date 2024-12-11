@@ -1,7 +1,8 @@
-import turtle
-import time
-import random
-import math
+# An update to the first drone code; this code now has a fleet/team of drones monitoring maritime traffic
+# as well as objects found at sea for object collision avoidance system related taks (such as large bodies of mass: glaciers are used in this code.)
+
+import turtle, time, random, math
+
 
 # turtle screen
 screen = turtle.Screen()
